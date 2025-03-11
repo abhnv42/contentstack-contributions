@@ -6,7 +6,7 @@ A list of my contributions at contentstack, done using alternate github id.
 ### contentstack-cli-tsgen: https://dub.sh/J1OOxun
 
 ## SDKs
-### contentstack-javascript: https://dub.sh/9oArrkU, contentstack-management-javascript: https://dub.sh/c6iYlKu
+### contentstack-javascript: https://dub.sh/9oArrkU, https://dub.sh/c6iYlKu
 ### contentstack-java: https://dub.sh/D4X9Pti
 ### contentstack-ios(Objective C): https://dub.sh/mjLNx7B
 ### contentstack-swift: https://dub.sh/YzLShQC
